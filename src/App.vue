@@ -24,7 +24,7 @@ import Home from './pages/Home.vue'
     </div>
   </header>
 
-  <main>
+ <main>
     <TheWelcome />
   </main>
   </div>
